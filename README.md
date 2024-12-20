@@ -7,3 +7,4 @@ A Data analysis project helping Toman Bike Share to understand if increasing pri
 5.  Make Analysis Recommendations
 
 
+![Screenshot 2024-12-20 222033](https://github.com/user-attachments/assets/6ff30b2f-9f16-46c1-9d1b-a32fd577ead5)
