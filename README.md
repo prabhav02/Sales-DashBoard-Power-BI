@@ -6,4 +6,4 @@ A Data analysis project helping Toman Bike Share to understand if increasing pri
 4.  Build a Dashboard 
 5.  Make Analysis Recommendations
 
-   ![Logo](C:\Users\febin\OneDrive\Pictures\Screenshots\Screenshot 2024-12-20 222033 "My Project Logo")
+
